@@ -14,6 +14,16 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-FormatterKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SVPullToRefresh.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +32,27 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>6CCD1C36121783FE7C395300</key>
+		<key>36D0AC97D85F9243577CEF81</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>76F7BE6063DAC8772583FAA7</key>
+		<key>3E4B7C66B5BCC1930986DF8C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A417F408E9A5B76A80CD7A56</key>
+		<key>B6D4A5D343C4C4F49723DC1B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC0363BD81E00A1ECA745EB4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FCC9527A22299F4D43E09263</key>
 		<dict>
 			<key>primary</key>
 			<true/>

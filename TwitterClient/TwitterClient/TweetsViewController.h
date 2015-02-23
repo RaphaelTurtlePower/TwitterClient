@@ -7,7 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "NewTweetViewController.h"
+#import "TweetViewCell.h"
 
-@interface TweetsViewController : UIViewController
+@interface TweetsViewController : UIViewController <UITableViewDataSource, UITableViewDelegate, NewTweetViewControllerDelegate, TweetViewCellDelegate>
+@property (weak, nonatomic) IBOutlet UITableView *tweetList;
 
 @end
